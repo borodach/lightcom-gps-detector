@@ -1,0 +1,5 @@
+E:\LightCom\Projects\.NET\GPSDetector\obj\Debug\ResolveAssemblyReference.cache
+E:\LightCom\Projects\.NET\GPSDetector\obj\Debug\GPSDetector.MainForm.resources
+E:\LightCom\Projects\.NET\GPSDetector\obj\Debug\GPSDetector.Properties.Resources.resources
+E:\LightCom\Projects\.NET\GPSDetector\obj\Debug\GPSDetector.csproj.GenerateResource.Cache
+E:\LightCom\Projects\.NET\GPSDetector\obj\Debug\FindGPS.exe

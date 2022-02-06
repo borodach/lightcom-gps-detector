@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GPSDetector.csproj.GenerateResource.Cache
+bin\Debug\FindGPS.exe
+bin\Debug\FindGPS.pdb
+bin\Debug\LightCom.Common.dll
+bin\Debug\LightCom.Common.pdb
+obj\Debug\FindGPS.exe
+obj\Debug\FindGPS.pdb
+obj\Debug\GPSDetector.MainForm.resources
+obj\Debug\GPSDetector.Properties.Resources.resources
